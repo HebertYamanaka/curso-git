@@ -10,5 +10,6 @@ git checkout main (nome da branch que vc quer ir);
 git checkout -b "nome da nova breanch";  
 git push --set-upstream origin nova-feature(nova-feature é o nome da nova brench) -> clica no link pra solicitar a pull request.;  
 git checkout -b "novo" ;  
-quebra de linha do README.md é "br entre <>" ou duas vezes o espaço ou barra ao contrário    
+quebra de linha do README.md é "br entre <>" ou duas vezes o espaço ou barra ao contrário  
+git revert HEAD (ou o hash docódigo de alteração) -> para voltar aquela versão  
 
